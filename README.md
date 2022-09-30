@@ -1,2 +1,2 @@
 # Codewars-Problems
-In this repo, I will add any solution to a problem I solve on Codewars
+My Codewars Profile: https://www.codewars.com/users/Sniperplank
