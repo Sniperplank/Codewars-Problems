@@ -1,4 +1,5 @@
 # Problem
+# https://www.codewars.com/kata/55f1614853ddee8bd4000014/train/python
 """
 The integers 14 and 15, are contiguous (1 the difference between them, obvious) and have the same number of divisors.
 
